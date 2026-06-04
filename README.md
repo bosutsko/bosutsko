@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Trenutno se školujem za web dizajnera i pokušavam se u ovim godinama natjerati da HTML, CSS i JavaScript surađuju.
+Trenutno se školujem za web dizajnera i pokušavam u ovim godinama natjerati da HTML, CSS i JavaScript da surađuju.
 Upravo sam na početku, imam volju, ideje i dovoljno tvrdoglavosti da ne odustanem čim nešto ne radi iz prvog pokušaja. Vremena nemam pa ćemo vidjeti jesam li dovoljno tvrdoglav.
 
 🔭 Trebao bih naučiti:
