@@ -8,7 +8,7 @@ Upravo sam na početku, imam volju, ideje i dovoljno tvrdoglavosti da ne odustan
 - HTML
 - CSS
 - osnove JavaScripta
-- responzivni web dizajn
+- web dizajn
 - rad s GitHubom
 - kako ne paničariti
 
